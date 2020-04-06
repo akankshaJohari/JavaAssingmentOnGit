@@ -1,5 +1,5 @@
 package function.calling;
-
+//learning functions
 public class functionCalls {
 	
 	public static void main(String args[]) {
@@ -15,10 +15,6 @@ public class functionCalls {
 		Person p= new Person();
 		
 		
-		
-		
-		
-		
 	}
 	
 	public static void callByValue( int a , int b) {
@@ -29,6 +25,10 @@ public class functionCalls {
 		b=temp;
 		System.out.println("3 . final values : a =" +a +" b = "+b);
 		
+	}
+	
+	public static void test() {
+		System.out.println("hello");
 	}
 	
 	
