@@ -1,5 +1,5 @@
 package com.test.array;
-
+// finding existing elements in an array 
 import java.util.ArrayList;
 import java.util.Scanner;
 
