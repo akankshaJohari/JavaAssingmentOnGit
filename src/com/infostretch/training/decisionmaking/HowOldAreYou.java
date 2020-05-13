@@ -6,7 +6,7 @@ public class HowOldAreYou {
 		// TODO Auto-generated method stub
 		String name = "Billy";
 		
-		int age=15;
+		int age=26;
 		
 		if(age<16) {
 			System.out.println("Ok," + name + " you can't drive ");
