@@ -1,7 +1,7 @@
 package com.infostretch.training.ForLoop;
 
 import java.util.Scanner;
-
+//Write a program that gets an integer from the user. Add up all the numbers from 1 to that number, and display the total. Use a for loop to do it.
 public class AddingValuesWithForLoop {
 
 	public static void main(String[] args) {
